@@ -40,12 +40,12 @@ Galactic StarGazer is a project designed to display GitHub repository statistics
 
 ## Usage 🖥️
 
-- After setup, the Galactic StarGazer will display statistics from the configured GitHub repositories.
+- After setup, the Galactic Unicorn will display statistics from the configured GitHub repositories.
 - Use the built-in buttons on the Galactic Unicorn to adjust the brightness as needed.
 
 ## Customisation 🎨
 
-- **Repository Selection:** Modify the repositories list in `main.py to display your desired GitHub repositories.
+- **Repository Selection:** Modify the repositories list in `main.py` to display your desired GitHub repositories.
 - **Display Settings:** Change pen colors and other settings in `main.py` to customise the look of your display.
 
 ## Troubleshooting 🔧
