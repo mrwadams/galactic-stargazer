@@ -3,6 +3,8 @@
 
 Galactic StarGazer is a project designed to display GitHub repository statistics on the Galactic Unicorn, a display based on the Raspberry Pi Pico. It provides real-time information such as star and fork counts for specified GitHub repositories.
 
+![Project Demo](demo.gif)
+
 ## Features ✨
 
 - Real-time display of GitHub repository statistics.
@@ -14,6 +16,7 @@ Galactic StarGazer is a project designed to display GitHub repository statistics
 ## Hardware Requirements 🦄
 
 - Pimoroni's [Galactic Unicorn](https://shop.pimoroni.com/products/space-unicorns?variant=40842033561683) display.
+- Optional: The Galactic Unicorn can be mounted on an Ikea SKÅDIS pegboard using [this](https://www.printables.com/model/317905-pimoroni-galactic-unicorn-skadis-mount/) 3D printed bracket.
 
 ## Software Dependencies 💻
 
